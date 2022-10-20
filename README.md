@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ife-chukwu
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on available web/app dev job
+- 💞️ I’m looking forward to collaborate on available web/app development job
 - 📫 How to reach me twitter:ifee, Ig:dopeskiez
 
 <!---
