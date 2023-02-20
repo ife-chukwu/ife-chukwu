@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking forward to collaborate on available web/app development job
-- 📫 How to reach me twitter:ifee, Ig:dopeskiez
+- 📫 How to reach me twitter: Ifechukwu Onyeka, IG: dopeskiez
 
 <!---
 ife-chukwu/ife-chukwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
