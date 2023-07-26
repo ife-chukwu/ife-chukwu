@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ife-chukwu
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking forward to collaborate on available web/app development job
+- 💞️ I’m open to collaborate in any available web/app development job or organisation  
 - 📫 How to reach me, Twitter: https://twitter.com/ifee43080995, IG: https://instagram.com/dopeskiez?igshid=ZDc4ODBmNjlmNQ==
 - LinkedIn: https://www.linkedin.com/in/ifechukwu-onyeka-4a2ba525a
 
